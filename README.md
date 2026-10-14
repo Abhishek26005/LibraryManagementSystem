@@ -83,7 +83,7 @@ javac -version
 If your project is hosted on GitHub, clone it using:
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/Abhishek26005/LibraryManagementSystem.git
 ```
 
 Navigate to the project directory:
